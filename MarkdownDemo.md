@@ -22,7 +22,7 @@ HSL: `hsl(272,58%,42%)`
 This is my profile README.md []
 ()
 
-[This is a relative link to my repo README.md](hw-4-KateGordon21/README.md)
+[This is a relative link to an example file](hw-4-KateGordon21/referenceExampleFile)
 
 ![image of hogwarts crest](https://1000logos.net/wp-content/uploads/2018/08/Hogwarts-Logo.jpg)
 
@@ -45,8 +45,7 @@ Task lists:
 
 [Madeline](https://github.com/Madeline-Ellingson) you have been mentioned
 
-Referencing issue
-[GH-1](https://github.com/CS302spr23/hw-4-KateGordon21/issues/1)
+Referencing issue [#1](https://github.com/CS302spr23/hw-4-KateGordon21/issues/1)
 
 Emoji:
 :cat2: :yellow_heart: :black_heart:
