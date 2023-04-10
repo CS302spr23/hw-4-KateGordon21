@@ -22,7 +22,7 @@ HSL: `hsl(272,58%,42%)`
 This is my profile README.md []
 ()
 
-[This is a relative link to an example file](CS302spr23/hw-4-KateGordon21)
+[This is a relative link to an example file](relativeExampleFile.txt)
 
 ![image of hogwarts crest](https://1000logos.net/wp-content/uploads/2018/08/Hogwarts-Logo.jpg)
 
