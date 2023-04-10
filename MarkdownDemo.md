@@ -1,3 +1,7 @@
+[This is my profile README.md](https://github.com/KateGordon21/KateGordon21/blob/main/README.md)
+
+[Things I don't understand](https://github.com/KateGordon21/Spring2023/blob/main/ThingsIDontnderstand.md)
+
 # This is a first-level heading
 ## This is a second-level heading
 ### This is a third-level heading
@@ -18,10 +22,6 @@ These are color models for the color purple
 Hex: `#6F2DA8`
 RGB: `rgb(111,45,168)`
 HSL: `hsl(272,58%,42%)`
-
-[This is my profile README.md](https://github.com/KateGordon21/KateGordon21/blob/main/README.md)
-
-[Things I don't understand](https://github.com/KateGordon21/Spring2023/blob/main/ThingsIDontnderstand.md)
 
 [This is a relative link to an example file](referenceExampleFile.txt)
 
