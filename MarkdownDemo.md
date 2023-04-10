@@ -20,6 +20,7 @@ RGB: `rgb(111,45,168)`
 HSL: `hsl(272,58%,42%)`
 
 [This is my profile README.md](https://github.com/KateGordon21/KateGordon21/blob/main/README.md)
+[Things I don't understand](https://github.com/KateGordon21/Spring2023/blob/main/ThingsIDontnderstand.md)
 
 [This is a relative link to an example file](referenceExampleFile.txt)
 
