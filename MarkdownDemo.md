@@ -19,8 +19,7 @@ Hex: `#6F2DA8`
 RGB: `rgb(111,45,168)`
 HSL: `hsl(272,58%,42%)`
 
-This is my profile README.md []
-()
+[This is my profile README.md](https://github.com/KateGordon21/KateGordon21/blob/main/README.md)
 
 [This is a relative link to an example file](referenceExampleFile.txt)
 
