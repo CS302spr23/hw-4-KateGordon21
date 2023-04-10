@@ -26,13 +26,6 @@ This is my profile README.md []
 
 ![image of hogwarts crest](https://1000logos.net/wp-content/uploads/2018/08/Hogwarts-Logo.jpg)
 
-Image Theme:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://i.pinimg.com/originals/8e/7b/0f/8e7b0fa33d024ff4e75ca7a9b78e222f.jpg]">
-  <source media="(prefers-color-scheme: light)" srcset="[https://www.pngkit.com/png/detail/139-1390177_escudo-gryffindor-png-hufflepuff-house.png]">
-  <img alt="light and dark mode" src="[https://cdn11.bigcommerce.com/s-ydriczk/products/88364/images/91134/Harry-Potter-Hufflepuff-Crest-Official-wall-mounted-cardboard-cutout-buy-now-at-star__21122.1507644096.450.659.jpg]">
-</picture>
-
 Lists:
 - Hufflepuff
 * Griffyndor
