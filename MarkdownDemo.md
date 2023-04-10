@@ -43,7 +43,7 @@ Task lists:
 - [ ] Try out for quidditch
 - [ ] \(optional) go play chess
 
-[Madeline](@Madeline-Ellingson) you have been mentioned
+[Madeline](https://github.com/Madeline-Ellingson) you have been mentioned
 
 Referencing issue
 [GH-1](https://github.com/CS302spr23/hw-4-KateGordon21/issues/1)
